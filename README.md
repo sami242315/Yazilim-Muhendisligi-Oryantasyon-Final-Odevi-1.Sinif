@@ -1,2 +1,2 @@
-# Yazilim-Muhendisligi-Oryantasyon-Final-Odevi-1.Sinifj
-Yazılım Mühendisliği Oryantasyon Vize Ödevi 
+# Yazilim-Muhendisligi-Oryantasyon-Final-Odevi-1.Sinif
+Yazılım Mühendisliği Oryantasyon Final Ödevi 
